@@ -20,6 +20,7 @@ Package Control安装less2css， less（高亮）
 
 
 3、node 编译
+
 （1）下载notejs
 https://nodejs.org/en/
 
